@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JPMG2 from **Venezuela**
--  💻 I’m passionate about **web development** using **PHP**, **Laravel**, and **Livewire**
+-  💻 I’m passionate about **web development** using **PHP**, **Laravel**,**React** , and **Livewire**
 - 👀 I’m interested in building modern, scalable web applications and sharing knowledge with the community
 - 🌱 I’m currently learning more about **clean architecture**, **design patterns**, and advanced Laravel features
 - 💞️ I’m looking to collaborate on open-source Laravel or Livewire projects
